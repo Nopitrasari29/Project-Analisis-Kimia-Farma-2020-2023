@@ -70,4 +70,4 @@ Project-Analisis-Kimia-Farma-2020-2023/
 
 Dashboard interaktif final dapat diakses melalui link di bawah ini:
 
-**➡️ [Buka Dashboard Kinerja Kimia Farma 2020-2023]([[LINK_DASHBOARD_MU]](https://lookerstudio.google.com/reporting/f2dc4672-7b56-41d6-a19d-d60c5a77a9f2))**
+**https://lookerstudio.google.com/reporting/f2dc4672-7b56-41d6-a19d-d60c5a77a9f2**
